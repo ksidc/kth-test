@@ -1,5 +1,5 @@
 <?php
 
-echo CI/CD Version 1.0.0;
+echo CI/CD Version 1.0.1;
 
 ?>
